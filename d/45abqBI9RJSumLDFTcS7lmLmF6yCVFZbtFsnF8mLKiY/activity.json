@@ -1,5 +1,23 @@
 [
   {
+    "ts": "2026-11-16T21:57:58.896727Z",
+    "mint": "8WbGtXbT4vSbdjtbZJRuXKaxzXcnrJKzZy8s59Lgpump",
+    "bot": "scanner",
+    "kind": "create",
+    "text": "scanner create Wanted",
+    "usd": null,
+    "pct": null
+  },
+  {
+    "ts": "2026-11-16T21:57:57.581717Z",
+    "mint": "Eikc1PH7GbXfydxnjqpwTWuKXkcJ3T3wWgGeF8Jypump",
+    "bot": "scanner",
+    "kind": "create",
+    "text": "scanner create MARATHON",
+    "usd": null,
+    "pct": null
+  },
+  {
     "ts": "2026-11-16T21:57:47.117728Z",
     "mint": "3NHvbHhNvfswdti2w3ZorRycU9EivW116Mpe4K2kpump",
     "bot": "analyst",
@@ -428,24 +446,6 @@
     "bot": "analyst",
     "kind": "kill",
     "text": "analyst Fs6rXv\u2026 KILL 6/8 score=75.0 liquidity.usd missing; empty insiders graph (Layer 7 strict)",
-    "usd": null,
-    "pct": null
-  },
-  {
-    "ts": "2026-11-16T21:55:53.026987Z",
-    "mint": "7v4oyAxis3FcZxtoZ2B7LaYKg1mqJ5CFWe3zbjYfW13q",
-    "bot": "analyst",
-    "kind": "kill",
-    "text": "analyst 7v4oyA\u2026 KILL 6/8 score=75.0 no DexScreener pair or priceUsd; empty insiders graph (Layer 7 strict)",
-    "usd": null,
-    "pct": null
-  },
-  {
-    "ts": "2026-11-16T21:55:50.202903Z",
-    "mint": "81Lyrxravnbnf5ZCueXTcJp6HPFvKB8ffYrY3eVZTkVr",
-    "bot": "scanner",
-    "kind": "create",
-    "text": "scanner create UNAWARENESS",
     "usd": null,
     "pct": null
   }
