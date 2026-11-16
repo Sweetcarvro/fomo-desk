@@ -1,5 +1,23 @@
 [
   {
+    "ts": "2026-11-16T21:55:12.883634Z",
+    "mint": "HqsnbR8PqyjiMQR2yvMdQc4NhrTopnad4FQ9BfNKpump",
+    "bot": "scanner",
+    "kind": "create",
+    "text": "scanner create MF",
+    "usd": null,
+    "pct": null
+  },
+  {
+    "ts": "2026-11-16T21:55:03.330569Z",
+    "mint": "2DYRsYcTHciaB5KiVydeSAfFWoUMmgTJxJy5saZMpump",
+    "bot": "scanner",
+    "kind": "create",
+    "text": "scanner create MOROSS",
+    "usd": null,
+    "pct": null
+  },
+  {
     "ts": "2026-11-16T21:54:57.876675Z",
     "mint": "9BksNGySz66YCfBAVh7AYoqEzUtEZwMXHJe4AG4Mpump",
     "bot": "scanner",
@@ -430,23 +448,5 @@
     "text": "PAPER SELL 100% PaperC\u2026 @ 0.008 proceeds $0.80 fee $0.10 pnl $0.80",
     "usd": 0.8,
     "pct": 100.0
-  },
-  {
-    "ts": "2026-11-16T21:52:11.277000Z",
-    "mint": "PaperCleanMint11111111111111111111111111111",
-    "bot": "risk",
-    "kind": "intent",
-    "text": "risk trail 40.0% off peak 0.022",
-    "usd": null,
-    "pct": 100.0
-  },
-  {
-    "ts": "2026-11-16T21:52:06.273836Z",
-    "mint": "PaperCleanMint11111111111111111111111111111",
-    "bot": "executor",
-    "kind": "sell",
-    "text": "PAPER SELL 50% PaperC\u2026 @ 0.022 proceeds $2.20 fee $0.10 pnl $1.10",
-    "usd": 2.2,
-    "pct": 50.0
   }
 ]
