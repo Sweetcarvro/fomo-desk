@@ -1,5 +1,32 @@
 [
   {
+    "ts": "2026-11-16T21:54:07.339260Z",
+    "mint": "73NKvaeB5gbEnNindu8hdwE8WuG87CC6sEPq4g1hpump",
+    "bot": "analyst",
+    "kind": "kill",
+    "text": "analyst 73NKva\u2026 KILL 4/8 score=50.0 no DexScreener pair or priceUsd; no pair to read volume/txns; danger risks: ['Creator history of rugged tokens']; empty insiders graph (Layer 7 strict)",
+    "usd": null,
+    "pct": null
+  },
+  {
+    "ts": "2026-11-16T21:54:04.891124Z",
+    "mint": "73NKvaeB5gbEnNindu8hdwE8WuG87CC6sEPq4g1hpump",
+    "bot": "scanner",
+    "kind": "create",
+    "text": "scanner create ANSEM",
+    "usd": null,
+    "pct": null
+  },
+  {
+    "ts": "2026-11-16T21:53:54.172001Z",
+    "mint": "DNs3swnKpWn4a1c68XmfnqPheRqUF49CeG35sKAepump",
+    "bot": "analyst",
+    "kind": "kill",
+    "text": "analyst DNs3sw\u2026 KILL 4/8 score=50.0 no DexScreener pair or priceUsd; no pair to read volume/txns; danger risks: ['Creator history of rugged tokens']; empty insiders graph (Layer 7 strict)",
+    "usd": null,
+    "pct": null
+  },
+  {
     "ts": "2026-11-16T21:53:51.314772Z",
     "mint": "DNs3swnKpWn4a1c68XmfnqPheRqUF49CeG35sKAepump",
     "bot": "scanner",
