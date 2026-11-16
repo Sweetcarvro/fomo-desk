@@ -1,0 +1,12 @@
+:root { color-scheme: dark; --bg:#111113; --card:#1c1c1e; --fg:#f2f2f7; --muted:#8e8e93; --green:#30d158; }
+* { box-sizing: border-box; }
+html, body { margin: 0; padding: 0; background: var(--bg); color: var(--fg);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+header { padding: 20px 24px 8px; }
+h1 { margin: 0; font-size: 22px; }
+.mode, #status { color: var(--muted); }
+main { padding: 8px 24px 32px; display: grid; gap: 16px; }
+.card { background: var(--card); border-radius: 14px; padding: 16px 18px; }
+h2 { margin: 0 0 8px; font-size: 15px; font-weight: 600; }
+.balance { margin: 0; font-size: 40px; font-weight: 700; letter-spacing: -0.03em; color: var(--green); }
+canvas { width: 100%; height: auto; display: block; }

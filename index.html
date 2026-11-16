@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#111113">
+  <title>FOMO desk</title>
+  <link rel="manifest" href="manifest.json">
+  <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+  <link rel="stylesheet" href="app.css">
+  <script>
+    (function () {
+      var p = location.pathname;
+      if (/\/fomo-desk$/.test(p)) {
+        location.replace(p + "/" + location.search + location.hash);
+      }
+    })();
+  </script>
+</head>
+<body>
+  <header>
+    <h1>FOMO desk</h1>
+    <p class="mode" id="mode">…</p>
+  </header>
+  <main>
+    <section class="card">
+      <h2>Cash</h2>
+      <p class="balance" id="balance">—</p>
+      <p id="status">Loading…</p>
+    </section>
+    <section class="card">
+      <h2>Chart</h2>
+      <canvas id="chart" width="640" height="200"></canvas>
+    </section>
+  </main>
+  <script src="chart.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

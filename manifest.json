@@ -1,0 +1,11 @@
+{
+  "name": "FOMO desk",
+  "short_name": "desk",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#111113",
+  "theme_color": "#111113",
+  "icons": [
+    { "src": "icons/apple-touch-icon.png", "sizes": "180x180", "type": "image/png" }
+  ]
+}

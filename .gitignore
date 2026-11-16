@@ -1,0 +1,7 @@
+secrets.env
+.env
+*.pem
+*.key
+vapid-private*
+telegram.token
+.DS_Store
