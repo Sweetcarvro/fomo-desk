@@ -1,5 +1,50 @@
 [
   {
+    "ts": "2026-11-16T22:00:13.689263Z",
+    "mint": "8utEbf8MxGmLtCA6eVCvZyCYgWTjgnpxrmfsTeqDpump",
+    "bot": "scanner",
+    "kind": "create",
+    "text": "scanner create WSF",
+    "usd": null,
+    "pct": null
+  },
+  {
+    "ts": "2026-11-16T22:00:12.744602Z",
+    "mint": "8DFX8neqC5uDULNW9URoLHT2g9j9aPacghQCmTqvWXe2",
+    "bot": "scanner",
+    "kind": "create",
+    "text": "scanner create VICECAT",
+    "usd": null,
+    "pct": null
+  },
+  {
+    "ts": "2026-11-16T22:00:09.186851Z",
+    "mint": "BoTx8y9ynfdxf5ZjWtCoBVkff52qKA82ysaLU8ZM6d8T",
+    "bot": "scanner",
+    "kind": "create",
+    "text": "scanner create BoTx8y9y",
+    "usd": null,
+    "pct": null
+  },
+  {
+    "ts": "2026-11-16T22:00:08.929476Z",
+    "mint": "DXQvgANzZYbUuDVE66yudBwqeggbe8fMS5sz5gTkpump",
+    "bot": "scanner",
+    "kind": "create",
+    "text": "scanner create CATALYST",
+    "usd": null,
+    "pct": null
+  },
+  {
+    "ts": "2026-11-16T22:00:06.480044Z",
+    "mint": "CNHpP112S2hjfqhdt7m9J3TSn1gTYk68uUCFuQJbpump",
+    "bot": "scanner",
+    "kind": "create",
+    "text": "scanner create One",
+    "usd": null,
+    "pct": null
+  },
+  {
     "ts": "2026-11-16T21:59:54.306086Z",
     "mint": "EEVTwWoSMyMPjeRwdyzHt9BLd93roCViPrcsNY6Bpump",
     "bot": "scanner",
@@ -401,51 +446,6 @@
     "bot": "analyst",
     "kind": "kill",
     "text": "analyst 39Ga4K\u2026 KILL 4/8 score=50.0 no DexScreener pair or priceUsd; no pair to read volume/txns; danger risks: ['Creator history of rugged tokens']; empty insiders graph (Layer 7 strict)",
-    "usd": null,
-    "pct": null
-  },
-  {
-    "ts": "2026-11-16T21:57:15.127261Z",
-    "mint": "D52xPVeHFzWpH8wj3y9U4Frd4LdacXfnoURChUzcpump",
-    "bot": "scanner",
-    "kind": "create",
-    "text": "scanner create MVT",
-    "usd": null,
-    "pct": null
-  },
-  {
-    "ts": "2026-11-16T21:57:13.356037Z",
-    "mint": "6z5CkXVMgPrmrCBEzRokf2fnYcjgrWc3SafPXXFLpump",
-    "bot": "scanner",
-    "kind": "create",
-    "text": "scanner create Dlss5 meme",
-    "usd": null,
-    "pct": null
-  },
-  {
-    "ts": "2026-11-16T21:57:12.600047Z",
-    "mint": "7EGgeRg6NcVJUZk5EQPYRM5KgtYsUW8Nq5ZNPuGPpump",
-    "bot": "analyst",
-    "kind": "kill",
-    "text": "analyst 7EGgeR\u2026 KILL 5/8 score=62.5 no DexScreener pair or priceUsd; no pair to read volume/txns; empty insiders graph (Layer 7 strict)",
-    "usd": null,
-    "pct": null
-  },
-  {
-    "ts": "2026-11-16T21:57:09.823262Z",
-    "mint": "9rSnnC1B5mxVLpavA9MCnRWEzpRCmjVuZPrymQwKUNGd",
-    "bot": "analyst",
-    "kind": "kill",
-    "text": "analyst 9rSnnC\u2026 KILL 5/8 score=62.5 no DexScreener pair or priceUsd; no pair to read volume/txns; empty insiders graph (Layer 7 strict)",
-    "usd": null,
-    "pct": null
-  },
-  {
-    "ts": "2026-11-16T21:57:08.462354Z",
-    "mint": "39Ga4KgYdPz81D2Xg9DySeqHq5q1Q1LGJXJVYtifpump",
-    "bot": "scanner",
-    "kind": "create",
-    "text": "scanner create $AMEN",
     "usd": null,
     "pct": null
   }
