@@ -1,5 +1,113 @@
 [
   {
+    "ts": "2026-11-16T21:57:16.037376Z",
+    "mint": "6MkW233jAqTShUkDwptBpQHMfqrvs1fA8dqfwwYvpump",
+    "bot": "scanner",
+    "kind": "create",
+    "text": "scanner create $AMEN",
+    "usd": null,
+    "pct": null
+  },
+  {
+    "ts": "2026-11-16T21:57:15.705015Z",
+    "mint": "27RHULnCgPkAbtTdH8t7xUaN4rhAVJnDsPAof8ddpump",
+    "bot": "scanner",
+    "kind": "migrate",
+    "text": "scanner migrate 27RHULnC",
+    "usd": null,
+    "pct": null
+  },
+  {
+    "ts": "2026-11-16T21:57:15.383142Z",
+    "mint": "39Ga4KgYdPz81D2Xg9DySeqHq5q1Q1LGJXJVYtifpump",
+    "bot": "analyst",
+    "kind": "kill",
+    "text": "analyst 39Ga4K\u2026 KILL 4/8 score=50.0 no DexScreener pair or priceUsd; no pair to read volume/txns; danger risks: ['Creator history of rugged tokens']; empty insiders graph (Layer 7 strict)",
+    "usd": null,
+    "pct": null
+  },
+  {
+    "ts": "2026-11-16T21:57:15.127261Z",
+    "mint": "D52xPVeHFzWpH8wj3y9U4Frd4LdacXfnoURChUzcpump",
+    "bot": "scanner",
+    "kind": "create",
+    "text": "scanner create MVT",
+    "usd": null,
+    "pct": null
+  },
+  {
+    "ts": "2026-11-16T21:57:13.356037Z",
+    "mint": "6z5CkXVMgPrmrCBEzRokf2fnYcjgrWc3SafPXXFLpump",
+    "bot": "scanner",
+    "kind": "create",
+    "text": "scanner create Dlss5 meme",
+    "usd": null,
+    "pct": null
+  },
+  {
+    "ts": "2026-11-16T21:57:12.600047Z",
+    "mint": "7EGgeRg6NcVJUZk5EQPYRM5KgtYsUW8Nq5ZNPuGPpump",
+    "bot": "analyst",
+    "kind": "kill",
+    "text": "analyst 7EGgeR\u2026 KILL 5/8 score=62.5 no DexScreener pair or priceUsd; no pair to read volume/txns; empty insiders graph (Layer 7 strict)",
+    "usd": null,
+    "pct": null
+  },
+  {
+    "ts": "2026-11-16T21:57:09.823262Z",
+    "mint": "9rSnnC1B5mxVLpavA9MCnRWEzpRCmjVuZPrymQwKUNGd",
+    "bot": "analyst",
+    "kind": "kill",
+    "text": "analyst 9rSnnC\u2026 KILL 5/8 score=62.5 no DexScreener pair or priceUsd; no pair to read volume/txns; empty insiders graph (Layer 7 strict)",
+    "usd": null,
+    "pct": null
+  },
+  {
+    "ts": "2026-11-16T21:57:08.462354Z",
+    "mint": "39Ga4KgYdPz81D2Xg9DySeqHq5q1Q1LGJXJVYtifpump",
+    "bot": "scanner",
+    "kind": "create",
+    "text": "scanner create $AMEN",
+    "usd": null,
+    "pct": null
+  },
+  {
+    "ts": "2026-11-16T21:57:07.164054Z",
+    "mint": "G128WcDRks1y5gsEpYdHbrre5Wc5ERw2D4Wp5HpdDc72",
+    "bot": "analyst",
+    "kind": "kill",
+    "text": "analyst G128Wc\u2026 KILL 7/8 score=87.5 liquidity.usd missing",
+    "usd": null,
+    "pct": null
+  },
+  {
+    "ts": "2026-11-16T21:57:04.245007Z",
+    "mint": "HdpvXBRkfHkKNbrt4PrSwNVHuwdx38Y9116HtSetpump",
+    "bot": "analyst",
+    "kind": "kill",
+    "text": "analyst HdpvXB\u2026 KILL 5/8 score=62.5 no DexScreener pair or priceUsd; no pair to read volume/txns; empty insiders graph (Layer 7 strict)",
+    "usd": null,
+    "pct": null
+  },
+  {
+    "ts": "2026-11-16T21:57:01.640307Z",
+    "mint": "7EGgeRg6NcVJUZk5EQPYRM5KgtYsUW8Nq5ZNPuGPpump",
+    "bot": "scanner",
+    "kind": "create",
+    "text": "scanner create MERT",
+    "usd": null,
+    "pct": null
+  },
+  {
+    "ts": "2026-11-16T21:57:01.638253Z",
+    "mint": "6XguvU8PkT4ydvHx36gsHjmRSKpEGk5uH7ZjWrgjpump",
+    "bot": "analyst",
+    "kind": "kill",
+    "text": "analyst 6XguvU\u2026 KILL 4/8 score=50.0 no DexScreener pair or priceUsd; no pair to read volume/txns; danger risks: ['Creator history of rugged tokens', 'Single holder ownership']; empty insiders graph (Layer 7 strict)",
+    "usd": null,
+    "pct": null
+  },
+  {
     "ts": "2026-11-16T21:56:58.506284Z",
     "mint": "CGVJhTNGB76BfZbYKmwynPGfW3UUotvTXtnLyXZzpump",
     "bot": "analyst",
@@ -338,114 +446,6 @@
     "bot": "scanner",
     "kind": "create",
     "text": "scanner create $BORED",
-    "usd": null,
-    "pct": null
-  },
-  {
-    "ts": "2026-11-16T21:55:19.159431Z",
-    "mint": "3Qcp9Pr8mRsXyxcgLvm8mmGy8LwfeBxoq6h8qopCpump",
-    "bot": "scanner",
-    "kind": "create",
-    "text": "scanner create BOXABL",
-    "usd": null,
-    "pct": null
-  },
-  {
-    "ts": "2026-11-16T21:55:18.962913Z",
-    "mint": "F3Tf2YZ63xNJxesdpA91mGcwXrQ3j1HTAb8Y4AYepump",
-    "bot": "scanner",
-    "kind": "create",
-    "text": "scanner create ANSEM",
-    "usd": null,
-    "pct": null
-  },
-  {
-    "ts": "2026-11-16T21:55:12.883634Z",
-    "mint": "HqsnbR8PqyjiMQR2yvMdQc4NhrTopnad4FQ9BfNKpump",
-    "bot": "scanner",
-    "kind": "create",
-    "text": "scanner create MF",
-    "usd": null,
-    "pct": null
-  },
-  {
-    "ts": "2026-11-16T21:55:03.330569Z",
-    "mint": "2DYRsYcTHciaB5KiVydeSAfFWoUMmgTJxJy5saZMpump",
-    "bot": "scanner",
-    "kind": "create",
-    "text": "scanner create MOROSS",
-    "usd": null,
-    "pct": null
-  },
-  {
-    "ts": "2026-11-16T21:54:57.876675Z",
-    "mint": "9BksNGySz66YCfBAVh7AYoqEzUtEZwMXHJe4AG4Mpump",
-    "bot": "scanner",
-    "kind": "create",
-    "text": "scanner create Thesis",
-    "usd": null,
-    "pct": null
-  },
-  {
-    "ts": "2026-11-16T21:54:53.476515Z",
-    "mint": "AptFRRsqwh13rEPGoZhPN4N2PQT8u75refTGTMurpump",
-    "bot": "scanner",
-    "kind": "create",
-    "text": "scanner create X",
-    "usd": null,
-    "pct": null
-  },
-  {
-    "ts": "2026-11-16T21:54:47.053415Z",
-    "mint": "3Y45Au97Zfi25uDmhKX1KRRyJfWuWvaEVcBijSrfpump",
-    "bot": "scanner",
-    "kind": "create",
-    "text": "scanner create BOXABL",
-    "usd": null,
-    "pct": null
-  },
-  {
-    "ts": "2026-11-16T21:54:37.295163Z",
-    "mint": "Fs6rXvzw1R46Kt82eATJcox9vfsQFBfp974eSzXPpump",
-    "bot": "scanner",
-    "kind": "create",
-    "text": "scanner create GTA",
-    "usd": null,
-    "pct": null
-  },
-  {
-    "ts": "2026-11-16T21:54:36.573905Z",
-    "mint": "7v4oyAxis3FcZxtoZ2B7LaYKg1mqJ5CFWe3zbjYfW13q",
-    "bot": "scanner",
-    "kind": "create",
-    "text": "scanner create LOOP",
-    "usd": null,
-    "pct": null
-  },
-  {
-    "ts": "2026-11-16T21:54:35.156989Z",
-    "mint": "AnQA8Z3eJ9KWHpVG1sFQnmzXk6AnX7ssWowfpGxnpump",
-    "bot": "scanner",
-    "kind": "create",
-    "text": "scanner create EWR",
-    "usd": null,
-    "pct": null
-  },
-  {
-    "ts": "2026-11-16T21:54:32.036515Z",
-    "mint": "9JrykbcVMGSDGNxhmVEMcxjqWM5pDoGbVoQyQAbYpump",
-    "bot": "scanner",
-    "kind": "create",
-    "text": "scanner create MF",
-    "usd": null,
-    "pct": null
-  },
-  {
-    "ts": "2026-11-16T21:54:25.653146Z",
-    "mint": "CG654QPZB8uz6txz5qmJEqXBz9K48tuajvFyX3u7pump",
-    "bot": "scanner",
-    "kind": "create",
-    "text": "scanner create MOROSS",
     "usd": null,
     "pct": null
   }
