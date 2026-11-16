@@ -1,6 +1,8 @@
 # Custom Actions deploy so the official 10 builds/hour branch-Pages
 # soft limit does not apply. See:
 # https://docs.github.com/en/pages/getting-started-with-github-pages/github-pages-limits
+# Official custom-workflow example (checkout@v6, upload-pages-artifact@v4):
+# https://docs.github.com/en/pages/getting-started-with-github-pages/using-custom-workflows-with-github-pages
 # Actions trigger/queue limits are far above one push every 15s:
 # https://docs.github.com/en/actions/reference/limits
 name: Deploy Pages
@@ -27,13 +29,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v4
         with:
           path: .
+          include-hidden-files: true
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
