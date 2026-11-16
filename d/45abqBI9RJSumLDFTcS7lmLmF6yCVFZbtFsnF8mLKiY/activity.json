@@ -1,5 +1,41 @@
 [
   {
+    "ts": "2026-11-16T21:55:30.993567Z",
+    "mint": "6AfhF8NUoB3wbVGXGAdSVQ2sJYzqz2m8mGmFg4EBpump",
+    "bot": "scanner",
+    "kind": "migrate",
+    "text": "scanner migrate 6AfhF8NU",
+    "usd": null,
+    "pct": null
+  },
+  {
+    "ts": "2026-11-16T21:55:21.343816Z",
+    "mint": "4dGyxQzsd4WhSU37X3LdrzmXbzmcG7fVFyKpMtoRpump",
+    "bot": "scanner",
+    "kind": "create",
+    "text": "scanner create $BORED",
+    "usd": null,
+    "pct": null
+  },
+  {
+    "ts": "2026-11-16T21:55:19.159431Z",
+    "mint": "3Qcp9Pr8mRsXyxcgLvm8mmGy8LwfeBxoq6h8qopCpump",
+    "bot": "scanner",
+    "kind": "create",
+    "text": "scanner create BOXABL",
+    "usd": null,
+    "pct": null
+  },
+  {
+    "ts": "2026-11-16T21:55:18.962913Z",
+    "mint": "F3Tf2YZ63xNJxesdpA91mGcwXrQ3j1HTAb8Y4AYepump",
+    "bot": "scanner",
+    "kind": "create",
+    "text": "scanner create ANSEM",
+    "usd": null,
+    "pct": null
+  },
+  {
     "ts": "2026-11-16T21:55:12.883634Z",
     "mint": "HqsnbR8PqyjiMQR2yvMdQc4NhrTopnad4FQ9BfNKpump",
     "bot": "scanner",
@@ -412,41 +448,5 @@
     "text": "analyst BwNTya\u2026 KILL 4/8 score=50.0 no DexScreener pair or priceUsd; no pair to read volume/txns; danger risks: ['Low Liquidity']; empty insiders graph (Layer 7 strict)",
     "usd": null,
     "pct": null
-  },
-  {
-    "ts": "2026-11-16T21:52:32.217778Z",
-    "mint": "4zQ4yP14R2yZSMjvr588CR5XSPTj5jmGLBEfkDaTpump",
-    "bot": "scanner",
-    "kind": "migrate",
-    "text": "scanner migrate 4zQ4yP14",
-    "usd": null,
-    "pct": null
-  },
-  {
-    "ts": "2026-11-16T21:52:29.760418Z",
-    "mint": "BwNTyaMYxrxqriVEV8xdPPWAXSRqqdqTMeN3UiRYrUSf",
-    "bot": "scanner",
-    "kind": "create",
-    "text": "scanner create LOOP",
-    "usd": null,
-    "pct": null
-  },
-  {
-    "ts": "2026-11-16T21:52:26.929363Z",
-    "mint": null,
-    "bot": "analyst",
-    "kind": "heartbeat",
-    "text": "analyst listening",
-    "usd": null,
-    "pct": null
-  },
-  {
-    "ts": "2026-11-16T21:52:11.277763Z",
-    "mint": "PaperCleanMint11111111111111111111111111111",
-    "bot": "executor",
-    "kind": "sell",
-    "text": "PAPER SELL 100% PaperC\u2026 @ 0.008 proceeds $0.80 fee $0.10 pnl $0.80",
-    "usd": 0.8,
-    "pct": 100.0
   }
 ]
