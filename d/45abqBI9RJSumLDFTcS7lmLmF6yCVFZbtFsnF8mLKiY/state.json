@@ -3,5 +3,6 @@
   "balance": 36,
   "cash": 36,
   "paper_start_cash": 36,
-  "updated_at": "2026-11-16T20:47:08Z"
+  "probe": "latency-20261116T205849Z",
+  "updated_at": "2026-11-16T20:58:49Z"
 }
