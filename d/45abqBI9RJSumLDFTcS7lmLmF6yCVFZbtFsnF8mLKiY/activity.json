@@ -1,5 +1,68 @@
 [
   {
+    "ts": "2026-11-16T21:53:16.237233Z",
+    "mint": "B4eN52TBS7dMjj94NaQNhc1oDkt5N1sQK2ydQEKFpump",
+    "bot": "analyst",
+    "kind": "kill",
+    "text": "analyst B4eN52\u2026 KILL 5/8 score=62.5 liquidity.usd missing; danger risks: ['Creator history of rugged tokens', 'Top 10 holders high ownership', 'Single holder ownership', 'High ownership']; empty insiders graph (Layer 7 strict)",
+    "usd": null,
+    "pct": null
+  },
+  {
+    "ts": "2026-11-16T21:53:13.650604Z",
+    "mint": "D9Dsydn7XWm5JoJ7HjPF2KdabEtpAT6aRvHS2DJ1pump",
+    "bot": "analyst",
+    "kind": "kill",
+    "text": "analyst D9Dsyd\u2026 KILL 4/8 score=50.0 no DexScreener pair or priceUsd; no pair to read volume/txns; danger risks: ['Creator history of rugged tokens', 'Single holder ownership']; empty insiders graph (Layer 7 strict)",
+    "usd": null,
+    "pct": null
+  },
+  {
+    "ts": "2026-11-16T21:53:12.850150Z",
+    "mint": "B4eN52TBS7dMjj94NaQNhc1oDkt5N1sQK2ydQEKFpump",
+    "bot": "scanner",
+    "kind": "migrate",
+    "text": "scanner migrate B4eN52TB",
+    "usd": null,
+    "pct": null
+  },
+  {
+    "ts": "2026-11-16T21:53:11.317348Z",
+    "mint": "9HnaFEZr7q8kQ6v9gnKCUuJzxxBL799zCzoxr2YYpump",
+    "bot": "analyst",
+    "kind": "kill",
+    "text": "analyst 9HnaFE\u2026 KILL 4/8 score=50.0 no DexScreener pair or priceUsd; no pair to read volume/txns; danger risks: ['Creator history of rugged tokens']; empty insiders graph (Layer 7 strict)",
+    "usd": null,
+    "pct": null
+  },
+  {
+    "ts": "2026-11-16T21:53:10.428797Z",
+    "mint": "D9Dsydn7XWm5JoJ7HjPF2KdabEtpAT6aRvHS2DJ1pump",
+    "bot": "scanner",
+    "kind": "create",
+    "text": "scanner create Snitch.fun",
+    "usd": null,
+    "pct": null
+  },
+  {
+    "ts": "2026-11-16T21:53:08.664278Z",
+    "mint": "9HnaFEZr7q8kQ6v9gnKCUuJzxxBL799zCzoxr2YYpump",
+    "bot": "scanner",
+    "kind": "create",
+    "text": "scanner create LOL",
+    "usd": null,
+    "pct": null
+  },
+  {
+    "ts": "2026-11-16T21:53:03.059524Z",
+    "mint": "Hy8DxDe93MVF56Fd8eG8a43EB5VkS2ni5VW7Lr5Mpump",
+    "bot": "analyst",
+    "kind": "kill",
+    "text": "analyst Hy8DxD\u2026 KILL 4/8 score=50.0 no DexScreener pair or priceUsd; no pair to read volume/txns; danger risks: ['Creator history of rugged tokens']; empty insiders graph (Layer 7 strict)",
+    "usd": null,
+    "pct": null
+  },
+  {
     "ts": "2026-11-16T21:52:59.538693Z",
     "mint": "DAh673U4STDBaDJUocQuDqRJAf2AevZjYjbWNsA7pump",
     "bot": "analyst",
