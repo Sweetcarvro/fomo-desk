@@ -1,5 +1,14 @@
 [
   {
+    "ts": "2026-11-16T21:59:54.306086Z",
+    "mint": "EEVTwWoSMyMPjeRwdyzHt9BLd93roCViPrcsNY6Bpump",
+    "bot": "scanner",
+    "kind": "create",
+    "text": "scanner create SUSHI",
+    "usd": null,
+    "pct": null
+  },
+  {
     "ts": "2026-11-16T21:59:41.573786Z",
     "mint": "FGtWSBJDo6DA8deBM22CQ9V9nNLAccdTdrfgwwXrpump",
     "bot": "scanner",
@@ -437,15 +446,6 @@
     "bot": "scanner",
     "kind": "create",
     "text": "scanner create $AMEN",
-    "usd": null,
-    "pct": null
-  },
-  {
-    "ts": "2026-11-16T21:57:07.164054Z",
-    "mint": "G128WcDRks1y5gsEpYdHbrre5Wc5ERw2D4Wp5HpdDc72",
-    "bot": "analyst",
-    "kind": "kill",
-    "text": "analyst G128Wc\u2026 KILL 7/8 score=87.5 liquidity.usd missing",
     "usd": null,
     "pct": null
   }
