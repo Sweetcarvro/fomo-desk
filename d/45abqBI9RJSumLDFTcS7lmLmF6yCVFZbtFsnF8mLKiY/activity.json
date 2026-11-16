@@ -1,0 +1,110 @@
+[
+  {
+    "ts": "2026-11-16T21:52:26.929363Z",
+    "mint": null,
+    "bot": "analyst",
+    "kind": "heartbeat",
+    "text": "analyst listening",
+    "usd": null,
+    "pct": null
+  },
+  {
+    "ts": "2026-11-16T21:52:11.277763Z",
+    "mint": "PaperCleanMint11111111111111111111111111111",
+    "bot": "executor",
+    "kind": "sell",
+    "text": "PAPER SELL 100% PaperC\u2026 @ 0.008 proceeds $0.80 fee $0.10 pnl $0.80",
+    "usd": 0.8,
+    "pct": 100.0
+  },
+  {
+    "ts": "2026-11-16T21:52:11.277000Z",
+    "mint": "PaperCleanMint11111111111111111111111111111",
+    "bot": "risk",
+    "kind": "intent",
+    "text": "risk trail 40.0% off peak 0.022",
+    "usd": null,
+    "pct": 100.0
+  },
+  {
+    "ts": "2026-11-16T21:52:06.273836Z",
+    "mint": "PaperCleanMint11111111111111111111111111111",
+    "bot": "executor",
+    "kind": "sell",
+    "text": "PAPER SELL 50% PaperC\u2026 @ 0.022 proceeds $2.20 fee $0.10 pnl $1.10",
+    "usd": 2.2,
+    "pct": 50.0
+  },
+  {
+    "ts": "2026-11-16T21:52:06.273090Z",
+    "mint": "PaperCleanMint11111111111111111111111111111",
+    "bot": "risk",
+    "kind": "intent",
+    "text": "risk tp 2.0x sell 50.0%",
+    "usd": null,
+    "pct": 50.0
+  },
+  {
+    "ts": "2026-11-16T21:52:01.872504Z",
+    "mint": "PaperCleanMint11111111111111111111111111111",
+    "bot": "executor",
+    "kind": "buy",
+    "text": "PAPER BUY $2.00 PaperC\u2026 @ 0.01 fee $0.10 tokens 200",
+    "usd": 2.0,
+    "pct": null
+  },
+  {
+    "ts": "2026-11-16T21:52:01.871733Z",
+    "mint": "PaperCleanMint11111111111111111111111111111",
+    "bot": "brain",
+    "kind": "intent",
+    "text": "PAPER size $2.0 score=100.0",
+    "usd": 2.0,
+    "pct": null
+  },
+  {
+    "ts": "2026-11-16T21:52:01.869524Z",
+    "mint": "PaperCleanMint11111111111111111111111111111",
+    "bot": "analyst",
+    "kind": "pass",
+    "text": "analyst PaperC\u2026 PASS 8/8 score=100.0 8/8",
+    "usd": null,
+    "pct": null
+  },
+  {
+    "ts": "2026-11-16T21:52:01.868563Z",
+    "mint": "PaperCleanMint11111111111111111111111111111",
+    "bot": "scanner",
+    "kind": "migrate",
+    "text": "scanner migrate PAPER",
+    "usd": null,
+    "pct": null
+  },
+  {
+    "ts": "2026-11-16T21:52:01.468345Z",
+    "mint": "RwEaXdP8scC8xYj8QGbhBL5SyMcX3LdLfLzkHywpump",
+    "bot": "analyst",
+    "kind": "kill",
+    "text": "analyst RwEaXd\u2026 KILL 6/8 score=75.0 liquidity $1.51 < $1000.0 (guessed floor); empty insiders graph (Layer 7 strict)",
+    "usd": null,
+    "pct": null
+  },
+  {
+    "ts": "2026-11-16T21:52:01.466694Z",
+    "mint": "RwEaXdP8scC8xYj8QGbhBL5SyMcX3LdLfLzkHywpump",
+    "bot": "scanner",
+    "kind": "migrate",
+    "text": "scanner migrate RwEaXdP8",
+    "usd": null,
+    "pct": null
+  },
+  {
+    "ts": "2026-11-16T21:52:01.265332Z",
+    "mint": null,
+    "bot": "analyst",
+    "kind": "heartbeat",
+    "text": "analyst listening",
+    "usd": null,
+    "pct": null
+  }
+]

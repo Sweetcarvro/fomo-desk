@@ -1,8 +1,10 @@
 {
   "mode": "PAPER",
-  "balance": 36,
-  "cash": 36,
-  "paper_start_cash": 36,
-  "probe": "p3-20261116T212914Z",
-  "updated_at": "2026-11-16T21:29:44Z"
+  "balance": 36.7,
+  "cash": 36.7,
+  "equity": 36.7,
+  "paper_start_cash": 36.0,
+  "open_positions": 0,
+  "positions": [],
+  "updated_at": "2026-11-16T21:52:26.931184Z"
 }
