@@ -1,5 +1,32 @@
 [
   {
+    "ts": "2026-11-16T21:54:57.876675Z",
+    "mint": "9BksNGySz66YCfBAVh7AYoqEzUtEZwMXHJe4AG4Mpump",
+    "bot": "scanner",
+    "kind": "create",
+    "text": "scanner create Thesis",
+    "usd": null,
+    "pct": null
+  },
+  {
+    "ts": "2026-11-16T21:54:53.476515Z",
+    "mint": "AptFRRsqwh13rEPGoZhPN4N2PQT8u75refTGTMurpump",
+    "bot": "scanner",
+    "kind": "create",
+    "text": "scanner create X",
+    "usd": null,
+    "pct": null
+  },
+  {
+    "ts": "2026-11-16T21:54:47.053415Z",
+    "mint": "3Y45Au97Zfi25uDmhKX1KRRyJfWuWvaEVcBijSrfpump",
+    "bot": "scanner",
+    "kind": "create",
+    "text": "scanner create BOXABL",
+    "usd": null,
+    "pct": null
+  },
+  {
     "ts": "2026-11-16T21:54:37.295163Z",
     "mint": "Fs6rXvzw1R46Kt82eATJcox9vfsQFBfp974eSzXPpump",
     "bot": "scanner",
@@ -421,32 +448,5 @@
     "text": "PAPER SELL 50% PaperC\u2026 @ 0.022 proceeds $2.20 fee $0.10 pnl $1.10",
     "usd": 2.2,
     "pct": 50.0
-  },
-  {
-    "ts": "2026-11-16T21:52:06.273090Z",
-    "mint": "PaperCleanMint11111111111111111111111111111",
-    "bot": "risk",
-    "kind": "intent",
-    "text": "risk tp 2.0x sell 50.0%",
-    "usd": null,
-    "pct": 50.0
-  },
-  {
-    "ts": "2026-11-16T21:52:01.872504Z",
-    "mint": "PaperCleanMint11111111111111111111111111111",
-    "bot": "executor",
-    "kind": "buy",
-    "text": "PAPER BUY $2.00 PaperC\u2026 @ 0.01 fee $0.10 tokens 200",
-    "usd": 2.0,
-    "pct": null
-  },
-  {
-    "ts": "2026-11-16T21:52:01.871733Z",
-    "mint": "PaperCleanMint11111111111111111111111111111",
-    "bot": "brain",
-    "kind": "intent",
-    "text": "PAPER size $2.0 score=100.0",
-    "usd": 2.0,
-    "pct": null
   }
 ]
