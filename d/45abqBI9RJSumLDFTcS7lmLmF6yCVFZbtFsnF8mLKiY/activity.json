@@ -1,5 +1,14 @@
 [
   {
+    "ts": "2026-11-16T21:53:34.366993Z",
+    "mint": "ANoNMkrVz1qquE7TUpsLmHCjRK9ccjU9zcADFJubAh3R",
+    "bot": "scanner",
+    "kind": "create",
+    "text": "scanner create Anon",
+    "usd": null,
+    "pct": null
+  },
+  {
     "ts": "2026-11-16T21:53:16.237233Z",
     "mint": "B4eN52TBS7dMjj94NaQNhc1oDkt5N1sQK2ydQEKFpump",
     "bot": "analyst",
