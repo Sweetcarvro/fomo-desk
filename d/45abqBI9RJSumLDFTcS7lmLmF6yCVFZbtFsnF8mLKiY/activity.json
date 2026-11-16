@@ -1,5 +1,50 @@
 [
   {
+    "ts": "2026-11-16T21:54:25.653146Z",
+    "mint": "CG654QPZB8uz6txz5qmJEqXBz9K48tuajvFyX3u7pump",
+    "bot": "scanner",
+    "kind": "create",
+    "text": "scanner create MOROSS",
+    "usd": null,
+    "pct": null
+  },
+  {
+    "ts": "2026-11-16T21:54:19.661363Z",
+    "mint": "poyNLBWzjPXaKkBqMFcBCdjhWosEG7faD7WdNsupump",
+    "bot": "analyst",
+    "kind": "kill",
+    "text": "analyst poyNLB\u2026 KILL 4/8 score=50.0 no DexScreener pair or priceUsd; no pair to read volume/txns; danger risks: ['Creator history of rugged tokens']; empty insiders graph (Layer 7 strict)",
+    "usd": null,
+    "pct": null
+  },
+  {
+    "ts": "2026-11-16T21:54:16.824176Z",
+    "mint": "poyNLBWzjPXaKkBqMFcBCdjhWosEG7faD7WdNsupump",
+    "bot": "scanner",
+    "kind": "create",
+    "text": "scanner create GM",
+    "usd": null,
+    "pct": null
+  },
+  {
+    "ts": "2026-11-16T21:54:13.566212Z",
+    "mint": "Bhdd7dfQtVSfNcYK4LmMqYyXbBeLFtpe1dUTyJippump",
+    "bot": "analyst",
+    "kind": "kill",
+    "text": "analyst Bhdd7d\u2026 KILL 4/8 score=50.0 no DexScreener pair or priceUsd; no pair to read volume/txns; danger risks: ['Creator history of rugged tokens']; empty insiders graph (Layer 7 strict)",
+    "usd": null,
+    "pct": null
+  },
+  {
+    "ts": "2026-11-16T21:54:11.175259Z",
+    "mint": "Bhdd7dfQtVSfNcYK4LmMqYyXbBeLFtpe1dUTyJippump",
+    "bot": "scanner",
+    "kind": "create",
+    "text": "scanner create MF",
+    "usd": null,
+    "pct": null
+  },
+  {
     "ts": "2026-11-16T21:54:07.339260Z",
     "mint": "73NKvaeB5gbEnNindu8hdwE8WuG87CC6sEPq4g1hpump",
     "bot": "analyst",
@@ -401,15 +446,6 @@
     "bot": "scanner",
     "kind": "migrate",
     "text": "scanner migrate RwEaXdP8",
-    "usd": null,
-    "pct": null
-  },
-  {
-    "ts": "2026-11-16T21:52:01.265332Z",
-    "mint": null,
-    "bot": "analyst",
-    "kind": "heartbeat",
-    "text": "analyst listening",
     "usd": null,
     "pct": null
   }
